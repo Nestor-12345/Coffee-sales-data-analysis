@@ -7,7 +7,7 @@ The analysis uses Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning,
 
 ## Dataset
 
-Source: Coffee sales dataset (CSV format)
+Source: Coffee sales dataset from Kaggle (CSV format)
 
 Content: Transaction records including product, quantity, date, and sales revenue
 
