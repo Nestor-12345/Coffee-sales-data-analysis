@@ -40,7 +40,7 @@ Some of the charts included in this project:
 
 Sales trends over time
 
-Top 10 best-selling products
+Top 8 best-selling products
 
 Revenue distribution by product type
 
